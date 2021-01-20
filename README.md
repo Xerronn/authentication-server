@@ -1,0 +1,1 @@
+A simple authentication server developed by Zachary Onisick https://github.com/Xerronn for Boulder Insight

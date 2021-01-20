@@ -1,0 +1,24 @@
+{
+  "name": "authentication-server",
+  "version": "1.0.0",
+  "description": "Authentication server for boulder insight",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Xerronn/authentication-server.git"
+  },
+  "author": "Zachary Onisick",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Xerronn/authentication-server/issues"
+  },
+  "homepage": "https://github.com/Xerronn/authentication-server#readme",
+  "dependencies": {
+    "bcrypt": "^5.0.0",
+    "restify": "^8.5.1",
+    "restify-errors": "^8.0.2"
+  }
+}
